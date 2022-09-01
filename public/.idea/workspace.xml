@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed1a1389-c7c9-464e-9e23-db4a771b506a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/placeholder-about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/placeholder-hero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/placeholder-social.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/layouts/BlogPost.astro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/blog.astro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/blog/first-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/blog/markdown-style-guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/blog/second-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/blog/third-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/blog/using-mdx.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/index.astro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/rss.xml.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2E8y5V3LO3qlJHTTw0CZzWcEQK7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed1a1389-c7c9-464e-9e23-db4a771b506a" name="Changes" comment="" />
+      <created>1661991324385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661991324385</updated>
+      <workItem from="1661991326260" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
